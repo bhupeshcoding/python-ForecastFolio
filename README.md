@@ -50,10 +50,13 @@ pip install -r requirements.txt
 ## Screenshots
 
 ### 📌 Example Output in JSON Format
-![JSON Output](images/json_output.png)
+![json](https://github.com/user-attachments/assets/ca761fae-6720-46e6-910a-4fafa631ac52)
+
+
 
 ### 📌 Sample Data in CSV Format
-![CSV Output](images/csv_output.png)
+![random_data](https://github.com/user-attachments/assets/f4da9f89-49c3-4137-a961-1e28d0a241ae)
+
 
 ## Contribution
 
