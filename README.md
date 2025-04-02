@@ -1,4 +1,4 @@
-# Automatic Data Generator
+![random_data](https://github.com/user-attachments/assets/c0ededbe-11ea-4177-896d-3f4ddd459443)# Automatic Data Generator
 
 ![Banner Image](images/banner.png)
 
